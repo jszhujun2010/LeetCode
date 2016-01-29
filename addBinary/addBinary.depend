@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417697240 source:f:\file_jszhujun\ojproject\addbinary\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+

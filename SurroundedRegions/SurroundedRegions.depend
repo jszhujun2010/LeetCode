@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1420016579 source:f:\file_jszhujun\ojproject\surroundedregions\main.cpp
+	<iostream>
+	<vector>
+	<unordered_set>
+	<utility>
+

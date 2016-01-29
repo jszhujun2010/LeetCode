@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415436373 source:f:\file_jszhujun\ojproject\zigzagconvert\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

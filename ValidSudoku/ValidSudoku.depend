@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417786228 source:f:\file_jszhujun\ojproject\validsudoku\main.cpp
+	<iostream>
+	<vector>
+	<unordered_set>
+

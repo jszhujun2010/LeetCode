@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1421055659 source:f:\file_jszhujun\ojproject\graycode\main.cpp
+	<iostream>
+	<vector>
+	<unordered_set>
+	<math.h>
+

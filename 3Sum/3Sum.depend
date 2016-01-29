@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417938552 source:f:\file_jszhujun\ojproject\3sum\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<algorithm>
+

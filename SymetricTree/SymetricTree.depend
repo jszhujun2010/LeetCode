@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1414136291 source:f:\file_jszhujun\ojproject\symetrictree\main.cpp
+	<iostream>
+	<vector>
+	"Solution.h"
+
+1414136292 source:f:\file_jszhujun\ojproject\symetrictree\src\solution.cpp
+	<stddef.h>
+	"Solution.h"
+
+1414135090 f:\file_jszhujun\ojproject\symetrictree\include\solution.h
+

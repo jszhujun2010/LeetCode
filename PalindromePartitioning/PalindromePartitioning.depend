@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419421020 source:f:\file_jszhujun\ojproject\palindromepartitioning\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+

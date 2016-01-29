@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1414233770 source:f:\file_jszhujun\ojproject\reverseint\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
